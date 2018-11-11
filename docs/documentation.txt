@@ -1,0 +1,12 @@
+$noNavBar => used to ignore adding the navbar  to the page or any thing you don't to add it;
+
+example
+
+if (!isset($noNavBar)) {
+
+    include 'navbar.php';
+
+}
+
+-------------------
+
